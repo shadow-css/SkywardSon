@@ -423,7 +423,7 @@ border-radius: 8px !important;  }
 div.left {
   background: linear-gradient(180deg, rgba(77, 66, 51, 0.6) 0%, rgba(108, 92, 71, 0.9) 100%) !important;
   color: #ffffff !important;
-  border: 6px ridge #2b310d !important;
+  border: 6px ridge #502714 !important;
   border-radius: 2px !important;
 }
 
@@ -589,11 +589,11 @@ border-radius: 50%; }
 @media screen and (max-width: 800px) {
   a > #lion_image > div {
     position: absolute;
-    right: -602px;
+    right: -535px;
     bottom: -470px;
     border: 5px ridge #864525 !important;
     content: url("https://i.postimg.cc/jSyYkf3w/image.png");
-    width: 650px;
+    width: 524px;
     height: 455px;
     transform: scale(1.05,1.0); 
     background: url('') center center no-repeat;
@@ -697,7 +697,7 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a::after {
 }
 
 
-/* Pagedoll TO BE ADDEDD AGAIN IN A MOMENT*/
+/* Pagedoll */
 
 
 
