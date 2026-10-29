@@ -700,7 +700,7 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a::after {
 /* Pagedoll */
 .container.main::after {
 content: "" !important;
-background-image: url('https://i.postimg.cc/SNCkFHKF/image.png') !important;
+background-image: url('https://i.postimg.cc/1X6Ld9VX/image.png') !important;
 background-size: contain !important;
 background-repeat: no-repeat !important;
 position: fixed !important;
